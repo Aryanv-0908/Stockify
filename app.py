@@ -114,7 +114,7 @@ st.markdown(
     """
     <hr>
     <div style='color:#888;font-size:16px'>
-        Built <b>Stockify</b><br>
+        Built with <b>Stockify</b><br>
         <i>All prices and forecasts are for educational & demo purposes.</i>
     </div>
     """,
