@@ -100,12 +100,6 @@ This project is open source and available under the MIT License. See the LICENSE
 
 ---
 
-## 📧 Contact
-
-For questions or feedback, please open an issue or contact [your email or GitHub profile].
-
----
-
 
 
 
