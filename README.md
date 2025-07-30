@@ -41,7 +41,7 @@ Stockify is a dynamic web application built with Streamlit that provides animate
 
 1. **Clone the repository:**
 
-   git clone https://github.com/yourusername/Stockify.git
+   git clone https://github.com/Aryanv-0908/Stockify.git
 
    cd Stockify
 
