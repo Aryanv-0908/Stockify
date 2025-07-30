@@ -78,7 +78,7 @@ Stockify is a dynamic web application built with Streamlit that provides animate
 
 Stockify is deployed and accessible online via Streamlit Community Cloud:
 
-[**🔗 View the Live Application on Streamlit**]([https://stockify-your-url.streamlit.app](https://stockify-impjjtykzpkoeazeys6jlr.streamlit.app/))
+[**🔗 View the Live Application on Streamlit**](https://stockify-impjjtykzpkoeazeys6jlr.streamlit.app/)
 
 ---
 
