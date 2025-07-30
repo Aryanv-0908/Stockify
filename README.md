@@ -74,6 +74,39 @@ Stockify is a dynamic web application built with Streamlit that provides animate
 6. The app will automatically open in your default web browser. Use the sidebar controls to select stocks and customize the forecast horizon.
 
 
+## 🌐 Live Demo
+
+Stockify is deployed and accessible online via Streamlit Community Cloud:
+
+[**🔗 View the Live Application on Streamlit**]([https://stockify-your-url.streamlit.app](https://stockify-impjjtykzpkoeazeys6jlr.streamlit.app/))
+
+---
+
+## ⚠️ Disclaimer
+
+This project is intended for educational and demonstration purposes only. Stock price predictions are based on historical data and modeled estimates using machine learning and should **not** be used for real investment decisions. Past performance does not guarantee future results.
+
+---
+
+## 🤝 Contributing
+
+Contributions are welcome! Please submit issues or pull requests for improvements, bug fixes, or new features.
+
+---
+
+## 📄 License
+
+This project is open source and available under the MIT License. See the LICENSE file for details.
+
+---
+
+## 📧 Contact
+
+For questions or feedback, please open an issue or contact [your email or GitHub profile].
+
+---
+
+
 
 
 
