@@ -96,7 +96,7 @@ Contributions are welcome! Please submit issues or pull requests for improvement
 
 ## 📄 License
 
-This project is open source and available under the MIT License. See the LICENSE file for details.
+This project is open source and available for all
 
 ---
 
